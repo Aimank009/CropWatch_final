@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://github.com/Aimank009/CropWatch_final/blob/main/static/CROPWATCH-1000x1000.png" width="30%" height="40%">
-</p>
+<div align="center">
+  <img width=300 height=300 src="static/CROPWATCH-1000x1000.png" alt="Agent Crop Logo">
+</div>
 # CropWatch
 CropWatch is a Crop Disease detection and Cure suggestion system. It also provides details about the symptoms and the description of the particular disease.
 ***
