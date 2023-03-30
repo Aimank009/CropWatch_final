@@ -1,3 +1,5 @@
+![Image text](/Users/aimankhan/Desktop/CROPWATCH/training/static/CROPWATCH-1000x1000.png)
+
 # CropWatch_final
 CropWatch is a Crop Disease detection and Cure suggestion system. It also provides details about the symptoms and the description of the particular disease.
 ***
