@@ -1,4 +1,4 @@
-<img src="https://github.com/Aimank009/CropWatch_final/blob/main/static/CROPWATCH-1000x1000.png" width="30%" height="40%" centre>
+<img src="https://github.com/Aimank009/CropWatch_final/blob/main/static/CROPWATCH-1000x1000.png" width="30%" height="40%" align="centre">
 
 # CropWatch_final
 CropWatch is a Crop Disease detection and Cure suggestion system. It also provides details about the symptoms and the description of the particular disease.
