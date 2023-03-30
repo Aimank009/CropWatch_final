@@ -6,13 +6,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height=40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 </div>
-<div align="center" width="100%">
-![conda-python]
-![conda-tensorflow]
-![conda-keras]
-</div>  
-
-
 <h1>CROPWATCH</h1>
 <p>CropWatch is a Crop Disease detection and Cure suggestion system. It also provides details about the symptoms and the description of the particular disease and also will provide treatment of the disease.</p>  
 <hr>
@@ -23,12 +16,41 @@
    </ul>
 </p>
 <hr>
-<h4>Resources</h4>
+
+  <h2>Language Used</h2>
+  <p>This project is built using Python for Machine Learning and HTML,CSS,JS and FLASK for Web app development. It’s required to have adequate knowledge          about language used in project.</p>
+  <p><b><i>-PYTHON :</i></b> For Course of Python click <a href="https://youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB">here</a>
+  <p><b><i>-HTML,CSS,JS :</i></b> For course of HTML & CSS click <a href="https://youtube.com/playlist?list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88">here</a> and for JS click <a href="https://youtube.com/playlist?list=PLWKjhJtqVAbleDe3_ZA8h3AO2rXar-q2V">here</a>
+  
+  <h2>Resources</h2>
 <ul>
   <li><a href="https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset" target="_blank">Datasets</a></li>
   <li><a href="https://drive.google.com/file/d/14SXcBkrKLs7uTbo8ijEqNWPLR0a-b_j0/view?usp=share_link" target="_blank">Final_Model</a></li>
 </ul>
-<h4>Objective</h4>
-<ul>
-  <li>Train and evaluate CNN model for crop disease detection problems</li>
-  <
+  <hr>
+  <h3>Inspiration</h3>
+  <p>In support of Plant Village Project, I aimed to help smallholder farmers grow more food. Farmers who don't have the outreach to beat crop diseases usually feel helpless or become ignorant. The result of this is a lower than average yield of crop production.</p>
+
+  
+  <h2>Getting Started</h2>
+
+<p>From here the overall setup of project starts</p>
+
+  <h3>Prerequisites</h3>
+
+<Here, are some software & tools required that are used for building and enhancing our performance for project.
+
+* [Python][python-down]
+* [Anaconda Individual Edition][conda-ie]
+* Jupyter Notebook: (It’s packed in anaconda)
+* [VS Code][vscode-down]
+* [Pycharm Community][pycharm-down]
+  
+  
+  
+  
+  
+  
+  
+
+  
