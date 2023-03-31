@@ -38,19 +38,28 @@
 
   <h3>Prerequisites</h3>
 
-<Here, are some software & tools required that are used for building and enhancing our performance for project.
+Here, are some software & tools required that are used for building and enhancing our performance for project.
 
-* [Python][python-down]
-* [Anaconda Individual Edition][conda-ie]
+* Python
+* Anaconda Individual Edition
 * Jupyter Notebook: (It’s packed in anaconda)
-* [VS Code][vscode-down]
-* [Pycharm Community][pycharm-down]
-  
-  
-  
-  
-  
-  
+* VS Code
+
+### The AI Model
+
+We used convolution networks for image classification of the disease classes. We converted the model and optimized it using the Tensorflow lite format to be used on the web application in memory and time-efficient manner. 
+
+  ## Usage
+
+Below screen provides usage of our web app demo.
+
+<div align="center">
+  <img width="1469" alt="Screenshot 2023-03-31 at 3 49 46 PM" src="https://user-images.githubusercontent.com/128082668/229094164-3b4a398c-fd3d-4650-86c3-ee9d331673d7.png">
+  <img width="1469" alt="Screenshot 2023-03-31 at 3 51 25 PM" src="https://user-images.githubusercontent.com/128082668/229094511-5cb4806f-5b88-4c53-a6ea-21279012935c.png">
+<img width="1469" alt="Screenshot 2023-03-31 at 3 51 44 PM" src="https://user-images.githubusercontent.com/128082668/229094591-d4d57d7e-f44f-4fdb-bc3b-d8a8e204614e.png">
+<img width="1469" alt="Screenshot 2023-03-31 at 3 54 25 PM" src="https://user-images.githubusercontent.com/128082668/229095248-cf858d56-dfdb-4304-8201-9eb35bd4451d.png">
+
+</div>
   
 
   
